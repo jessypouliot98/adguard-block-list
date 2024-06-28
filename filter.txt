@@ -1,0 +1,15 @@
+!
+! Title: Malware Blocklist
+! Description: Blocks malware domains
+! Homepage: https://github.com/jessypouliot98/adguard-block-list
+! Last modified: 2024-06-28T17:32:35.272Z
+!
+! Compiled by @jessypouliot98
+!
+
+! src: https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet#corroborating-data-with-page-shield
+# [polyfill.io]
+127.0.0.1 polyfill.io
+127.0.0.1 googie-anaiytics.com
+127.0.0.1 www.googie-anaiytics.com
+127.0.0.1 kuurza.com
